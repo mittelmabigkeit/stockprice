@@ -1,0 +1,4 @@
+<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
+
+$MESS["AMIGOLAB_STOCKPRICE_PROP_SETTINGS"] = "Настройки";
+$MESS["AMIGOLAB_STOCKPRICE_PROP_TICKER"] = "Тикер";
